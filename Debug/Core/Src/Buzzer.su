@@ -1,0 +1,14 @@
+Buzzer.cpp:16:6:void Buzzer::Init()	24	static
+Buzzer.cpp:220:6:void Buzzer::SingleBeep(Buzzer::Sound)	16	static
+Buzzer.cpp:240:6:void Buzzer::Loop()	16	static
+Buzzer.cpp:294:6:void Buzzer::SetBeepPower(float)	16	static
+Buzzer.cpp:309:6:void Buzzer::SetPWMFrequency(float)	16	static
+Buzzer.cpp:313:6:void Buzzer::Mute()	16	static
+Buzzer.cpp:323:6:void Buzzer::Beep(uint8_t, uint8_t)	16	static
+Buzzer.cpp:326:6:void Buzzer::Tone(const char*, uint16_t, uint16_t, float)	32	static
+Buzzer.cpp:353:6:void Buzzer::EnableMode(Buzzer::Mode)	16	static
+Buzzer.cpp:356:6:void Buzzer::DisableMode(Buzzer::Mode)	16	static
+Buzzer.cpp:359:7:float Buzzer::NoteToFrequency(uint8_t)	24	static
+Buzzer.cpp:365:1:Buzzer::Buzzer(TIM_HandleTypeDef*, TIM_TypeDef*, uint32_t)	32	static
+Buzzer.cpp:372:1:Buzzer::~Buzzer()	16	static
+Buzzer.cpp:372:1:virtual Buzzer::~Buzzer()	16	static
